@@ -12,3 +12,6 @@ This is a repository for the data warehouse project of Dominic Finer Food(DFF). 
 
 ![image](https://user-images.githubusercontent.com/4469379/44959165-18e5f180-aeb0-11e8-956d-de7b8bff348c.png)
 
+![image](https://user-images.githubusercontent.com/4469379/44959205-8134d300-aeb0-11e8-98b4-ca1451ead58c.png)
+
+
