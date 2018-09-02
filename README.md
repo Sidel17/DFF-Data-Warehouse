@@ -1,4 +1,4 @@
-# DFF-Data-Warehouse
+# Dominick's Finer Foods-Data-Warehouse
 # Project Team
 Aditya Wagholikar
 Prashant Shisodia
