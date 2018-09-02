@@ -55,5 +55,7 @@ Gross_Margin comes from the data mart - Product_Sales. Store_Num attribute comes
 
 ![image](https://user-images.githubusercontent.com/4469379/44959324-f7860500-aeb1-11e8-88c4-2a8ed2f4986e.png)
 
+5. Data in Catgeory Sales Fact Table
 
+![image](https://user-images.githubusercontent.com/4469379/44959340-3b790a00-aeb2-11e8-94b0-55173608d601.png) 
 
