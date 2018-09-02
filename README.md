@@ -36,6 +36,8 @@ Justification - This business question is answered by ProductSales data mart. We
 Justification - This business question is answered by Product Sales data mart. We have used store_tier attribute from Store dimension table to filter. Year attributes from Time dimension table are used to measure time dimension against which we plot sum of Gross_Margin.
 Gross_Margin comes from the data mart - Product_Sales. Store_Num attribute comes from Store dimension table. We show a store wise trend plotted against year.
 
+# Snapshot of Data Mapping and Transformation in SSIS
+
 
 
 
