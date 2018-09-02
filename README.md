@@ -69,3 +69,8 @@ Gross_Margin comes from the data mart - Product_Sales. Store_Num attribute comes
 
 ![image](https://user-images.githubusercontent.com/4469379/44959388-f73a3980-aeb2-11e8-995c-d3a07ff48b71.png)
 
+9. Project Report
+
+DFF-Data-Warehouse/Report - 4 Version 5 - For Internet.pdf
+    
+
