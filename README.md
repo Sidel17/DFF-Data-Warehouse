@@ -38,6 +38,12 @@ Gross_Margin comes from the data mart - Product_Sales. Store_Num attribute comes
 
 # Snapshot of Data Mapping and Transformation in SSIS
 
+1. Table Mapping
+
+![image](https://user-images.githubusercontent.com/4469379/44959296-7d558080-aeb1-11e8-9af7-190ddfb5fdb2.png)
+
+2. SSIS ETL Workflow
+
 ![image](https://user-images.githubusercontent.com/4469379/44959278-37002180-aeb1-11e8-93e6-7922c2c5d0e0.png)
 
 
