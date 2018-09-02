@@ -59,3 +59,6 @@ Gross_Margin comes from the data mart - Product_Sales. Store_Num attribute comes
 
 ![image](https://user-images.githubusercontent.com/4469379/44959340-3b790a00-aeb2-11e8-94b0-55173608d601.png) 
 
+6. Table Structure for Category Sales Data Mart
+
+![image](https://user-images.githubusercontent.com/4469379/44959365-a0ccfb00-aeb2-11e8-9fc6-624a467c9f18.png)
